@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Atifbeast
 - 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...Computer Science
-- 💞️ I’m looking to collaborate on ............
+- 🌱 I’m currently learning ...Computer Science/Artificial Intelligence
 - 📫 How to reach me ...atifshaik538@gmail.com
 
 <!---
